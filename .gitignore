@@ -1,0 +1,5 @@
+venv/*
+parsing_analysis/*
+.env
+.vscode
+*.pycss
