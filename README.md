@@ -39,6 +39,12 @@ The class has the following methods:
 - **modelize(corpus_path)**: a method to train the LDA model on a given corpus, preprocesses the corpus, trains the LDA model, and stores the output. It also evaluates the topics using coherence and diversity scores.
 - **visualize(genre)**: a method to visualize the top words and frequencies of the trained topics for a given genre.
 
+Here is how the visualization looks like :
+
+<p align="center">
+  <img src="topic_viz.png" alt="viz" width="738">
+</p>
+
 ## Data
 
 The `data` folder contains the following type of files:
