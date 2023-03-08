@@ -14,7 +14,7 @@ This project aims to perform topic modeling on song lyrics from Genius. The proj
 
 To collect the song lyrics data, the `data_collection.py` script uses the Last FM API to get the most popular tracks and then the Genius one to collect the lyrics. The collected data is stored in a JSON file in the `data` folder.
 
-I decided to get 1000 thousands tracks for 17 genres.
+I decided to get 1000 tracks for 17 genres.
 
 ## Data Cleaning
 
